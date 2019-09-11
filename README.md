@@ -1,4 +1,4 @@
-# hello_world
+# Quiz App
 
 A new Flutter project.
 
